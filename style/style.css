@@ -1,0 +1,18 @@
+.iconCont {
+    margin-top: 8px;
+}
+
+.iconCont > i {
+    font-size: 24px;
+    margin-right: 3px;
+}
+
+.bgcolor {
+    background-color: #ebebeb;
+}
+
+.form-floating>label {
+    position:absolute;
+    top: 0;
+    left: auto;
+}
